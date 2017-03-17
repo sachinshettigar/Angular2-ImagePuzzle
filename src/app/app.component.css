@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box !important;
+}
+
+.game-title {
+    text-align: center;
+    font-size: 2em;
+    margin: auto auto;
+    color: white;
+}
+
+.ImagePuzzleContainer {
+    margin-top: 50px;
+    
+}
